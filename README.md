@@ -1,10 +1,10 @@
 📊 Blinkit / Swiggy Instamart Delivery Performance Dashboard
+
 🔹 Project Overview
 
 This project analyzes delivery operations for quick commerce platforms like Blinkit and Swiggy Instamart using Power BI.
 
 🔹 Key KPIs
-Total Orders
 Average Delivery Time
 Late Delivery %
 🔹 Dashboard Features
