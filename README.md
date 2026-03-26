@@ -6,7 +6,6 @@ Developed an interactive Power BI dashboard to analyze delivery operations for q
 ---
 
 ## 🔹 Key KPIs
-- Total Orders  
 - Average Delivery Time  
 - Late Delivery Percentage  
 
